@@ -1,0 +1,20 @@
+ghost:
+    username: ghost
+    name: Ghost
+    url_full: http://jekyller.github.io/jasper2/
+    url: jekyller.github.io/jasper2
+    bio: The professional publishing platform
+    picture: assets/images/ghost.png
+    facebook: ghost
+    twitter: tryghost
+    cover: False
+tyson:
+    username: tyson
+    name: TYSON
+    url_full: http://tyson711.github.io/
+    url: tyson711.github.io/
+    bio: F2E
+    picture: assets/images/ghost.png
+    # facebook: ghost
+    # twitter: tryghost
+    cover: False
