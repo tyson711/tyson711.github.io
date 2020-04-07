@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/running-01.jpg'
+cover: 'https://picsum.photos/id/486/2000/820'
 navigation: True
 title: '[譯] React Hooks With Typescript'
 date: 2020-04-02 10:00:00
