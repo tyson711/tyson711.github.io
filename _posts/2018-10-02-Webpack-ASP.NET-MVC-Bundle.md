@@ -4,8 +4,8 @@ current: post
 cover: 'https://picsum.photos/id/436/2000/820'
 navigation: True
 title: 'Webpack with ASP.NET MVC 前言'
-date: 2020-04-02 10:00:00
-tags: [React Webpack]
+date: 2018-10-01 07:11:00
+tags: [React Webpack Asp.Net MVC]
 class: post-template
 subclass: 'post tag-getting-started'
 author: tyson
