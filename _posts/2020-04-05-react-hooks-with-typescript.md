@@ -92,7 +92,7 @@ export default App
 現在，我們在 `StateHooksComponent` 裡添加按鈕，輸入的欄位跟顯示的欄位。
 
 ```javascript
-const [name, setName] = useState < string > ''
+const [name, setName] = useState<string>('')
 ```
 
 `useState` 將回傳兩個值，第一個是狀態的值，第二個是改變狀態的方法。我們可以用任何的方式來命名，不過顯而已見的是以下的使用方式：
@@ -172,8 +172,8 @@ useEffect(() => {
 -   如果陣列中有定義任何狀態參數，則在 mounting 時會執行一次 effects 函式，然後每次陣列中的狀態參數異動時都會再次執行 effects 函式，有個非常好用的範例是，當你在輸入框要顯示建議項目時，當使用者輸入內容時，你要根據輸入內容向其顯示建議的項目，那麼你可以將 input value 設為狀態參數，讓每次狀態參數改變時，都執行 effect 函式向後端取得資料。
 
 ```javascript
-const [name, setName] = useState < string > ''
-const [options, setOptions] = useState < Array < string > []
+const [name, setName] = useState<string>('')
+const [options, setOptions] = useState<Array<string>>([])
 useEffect(() => {
     if (name) {
         // fetch auto suggest options from backend,
