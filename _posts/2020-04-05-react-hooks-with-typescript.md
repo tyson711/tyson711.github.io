@@ -5,7 +5,7 @@ cover: 'https://picsum.photos/id/486/2000/820'
 navigation: True
 title: '[譯] React Hooks With Typescript'
 date: 2020-04-02 10:00:00
-tags: [React Redux-Toolkit]
+tags: [React TypeScript]
 class: post-template
 subclass: 'post tag-getting-started'
 author: tyson
