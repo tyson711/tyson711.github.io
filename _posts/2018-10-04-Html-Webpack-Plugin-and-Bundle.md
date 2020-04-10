@@ -1,10 +1,10 @@
 ---
 layout: post
 current: post
-cover: 'https://picsum.photos/id/438/2000/820'
+cover: 'https://picsum.photos/id/439/2000/820'
 navigation: True
 title: 'ASP.NET MVC 專案架構及入口頁面設定'
-date: 2018-10-03 07:11:00
+date: 2018-10-04 07:11:00
 tags: [React Webpack Asp.Net MVC]
 class: post-template
 subclass: 'post tag-getting-started'
