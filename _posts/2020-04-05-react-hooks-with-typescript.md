@@ -122,7 +122,7 @@ import { Form, Input, Button } from 'antd'
 interface Props {}
 
 const StateHooksComponent: React.FC<Props> = ({}) => {
-    const [name, setName] = useState < string > ''
+    const [name, setName] = useState<string>('')
 
     const handleSubmit = (e: FormEvent<HTMLFormElement>) => {
         e.preventDefault()
@@ -138,8 +138,7 @@ const StateHooksComponent: React.FC<Props> = ({}) => {
             <Form.Item>
                 <Input type="text" placeholder="name" value={name} onChange={onNameChange} />
                 <Button htmlType="submit" type="primary">
-                    {' '}
-                    Submit{' '}
+                    Submit
                 </Button>
             </Form.Item>
         </Form>
@@ -192,8 +191,8 @@ import { Form, Input, Button } from 'antd'
 interface Props {}
 
 const StateHooksComponent: React.FC<Props> = ({}) => {
-    const [name, setName] = useState < string > ''
-    const [address, setAddress] = useState < string > ''
+    const [name, setName] = useState<string>('')
+    const [address, setAddress] = useState<string>('')
 
     const handleSubmit = (e: FormEvent<HTMLFormElement>) => {
         e.preventDefault()
@@ -248,4 +247,4 @@ export default StateHooksComponent
 
 所以，這就是如何使用 `Functional Component` 來實現 `Class Component` 生命週期的方法。
 
-[原文出處](https://redux-toolkit.js.org/usage/usage-guide)
+[原文出處](https://codersera.com/blog/react-hooks-with-typescript-use-state-and-use-effect-in-2020/)
