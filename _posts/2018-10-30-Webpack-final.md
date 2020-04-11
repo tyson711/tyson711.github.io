@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: 'https://picsum.photos/id/466/2000/820'
+cover: 'https://picsum.photos/id/467/2000/820'
 navigation: True
 title: '導入 Webpack 心得'
 date: 2018-10-30 07:11:00

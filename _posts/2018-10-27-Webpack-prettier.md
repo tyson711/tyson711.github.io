@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: 'https://picsum.photos/id/463/2000/820'
+cover: 'https://picsum.photos/id/483/2000/820'
 navigation: True
 title: '導入 Prettier'
 date: 2018-10-27 07:11:00

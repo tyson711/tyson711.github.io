@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: 'https://picsum.photos/id/462/2000/820'
+cover: 'https://picsum.photos/id/482/2000/820'
 navigation: True
 title: '導入 React-Styleguidist'
 date: 2018-10-26 07:11:00

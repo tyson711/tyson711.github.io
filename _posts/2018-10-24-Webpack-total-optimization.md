@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: 'https://picsum.photos/id/460/2000/820'
+cover: 'https://picsum.photos/id/490/2000/820'
 navigation: True
 title: 'Webpack 優化總結'
 date: 2018-10-24 07:11:00

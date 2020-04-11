@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: 'https://picsum.photos/id/464/2000/820'
+cover: 'https://picsum.photos/id/494/2000/820'
 navigation: True
 title: '導入 ESLint'
 date: 2018-10-28 07:11:00
