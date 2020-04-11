@@ -15,6 +15,6 @@ tyson:
     url: tyson711.github.io/
     bio: F2E
     picture: assets/images/ghost.png
-    # facebook: ghost
-    # twitter: tryghost
+    facebook: ghost
+    twitter: tryghost
     cover: False
